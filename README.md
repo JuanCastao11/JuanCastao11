@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Castaño</h1>
-<h3 align="center">Soy un estudiante de Desarrollo de Software apasionado por aprender y crecer como persona</h3>
+<h3 align="center">I am a student of Software Development passionate about learning and growing as a person, I am currently 18 years old, I studied in the sena a Technology of Analysis and Software Development. Apart from everything my main goal is to learn, grow as a person and be someone good. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
