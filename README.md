@@ -1,3 +1,4 @@
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 <h1 align="center">Hi 👋, I'm Juan Manuel Castaño</h1>
 <h3 align="center">I am a student of Software Development passionate about learning and growing as a person, I am currently 18 years old, I studied in the sena a Technology of Analysis and Software Development. Apart from everything my main goal is to learn, grow as a person and be someone good. </h3>
 
